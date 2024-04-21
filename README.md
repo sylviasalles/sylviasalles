@@ -1,5 +1,5 @@
 👋 Olá, sou @sylviasalles
-- 🌊 Sou Técnica em Meio Ambiente com experiência na área de Ciências Ambientais. Atualmente cursando Oceanologia na Universidade Federal do Rio Grande (FURG).
+- 🌊 Sou Técnica em Meio Ambiente com experiência na área de Ciências Ambientais. Cursando atualmente Oceanologia na Universidade Federal do Rio Grande (FURG).
 - Estagio voluntariamente no Núcleo de Instrumentação Oceanográfica (NIO) da FURG, com experiência na área de oceanografia com instrumentação oceanográfica.
 - 👩🏽‍💻 Interesse pela área de análise de dados com ênfase na área de Oceanografia Física, gerando séries temporais de temperatura, ondas e marés e gerando mapas de temperatura e salinidade, utilizando a linguagem de programação Python.
 - Atualmente estou estudando inglês e adquirindo conhecimentos em linhas de código.
