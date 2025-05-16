@@ -7,6 +7,7 @@
 - Hidrodinâmica em águas rasas no Estuário da Lagoa dos Patos (Iniciação Tecnológica)
 
 🧭 Representante discente no Comitê Gestor Local do Laboratório de Ensino Flutuante – Ciências do Mar I (LEF CMI - FURG).
+
 📚 Estudando inglês e avançando no universo da programação científica.
 
 - 📫 Entrar em contato: através do email: sylvia.salles@hotmail.com ou Linkedin: www.linkedin.com/in/sylviasalles
