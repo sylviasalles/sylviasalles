@@ -1,4 +1,5 @@
 🌊 Oceanóloga pela FURG e Técnica em Meio Ambiente, com foco em Ciências Ambientais e Oceanografia Física.
+
 💻 Interessada por análise de dados ambientais, atualmente desenvolvendo habilidades em programação Python.
 
 Experiência com:
